@@ -6,9 +6,9 @@ Um aplicativo Flutter que utiliza a IA generativa do Google Gemini para gerar pe
 
 ## Funcionalidades
 
-Gerador de Perguntas: O usuário pode fornecer um tema, e a IA generativa do Google Gemini irá gerar perguntas relacionadas ao tema.
-Resposta do Usuário: O usuário pode responder às perguntas geradas pela IA.
-Feedback da IA: Com base nas respostas do usuário, a IA fornece uma nota e feedback sobre as respostas.
+-> Gerador de Perguntas: O usuário pode fornecer um tema, e a IA generativa do Google Gemini irá gerar perguntas relacionadas ao tema.  
+-> Resposta do Usuário: O usuário pode responder às perguntas geradas pela IA.  
+-> Feedback da IA: Com base nas respostas do usuário, a IA fornece uma nota e feedback sobre as respostas.
 
 ## Tecnologias Utilizadas
 
