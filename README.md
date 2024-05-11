@@ -33,7 +33,12 @@ Um aplicativo Flutter que utiliza a IA generativa do Google Gemini para gerar pe
 -> **Gerar Mais Perguntas**: Permitir ao usuário gerar mais perguntas. Atualmente, está limitado a 5 questões por prática.  
 -> **Avaliação do Histórico de Respostas**: Futuramente, a própria IA poderá avaliar o histórico de respostas do usuário para determinar se está melhorando em determinado assunto.
 
+## Observações do Desenvolvedor
+
+Devido ao pouco tempo e à correria para desenvolver, neste momento você não irá encontrar um código limpo, organizado e muito menos otimizado. No entanto, pretendo levar adiante e melhorá-lo, pois gosto de testar meus conhecimentos de vez em quando. Além disso, peço desculpas se encontrar algum erro de português, não tive tempo de revisar nada, apenas de entregar.
 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
+
+
