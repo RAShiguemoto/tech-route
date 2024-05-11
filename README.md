@@ -24,6 +24,16 @@ Um aplicativo Flutter que utiliza a IA generativa do Google Gemini para gerar pe
 -> Responder às Perguntas: Responda às perguntas geradas pela IA.  
 -> Receber Nota e Feedback: Após responder às perguntas, a IA fornecerá uma nota e feedback com base nas suas respostas.
 
+## Melhorias Futuras
+
+**Refatoração do Código**: Pretendo refatorar todo o código devido ao pouco tempo que foi dado para o desenvolvimento.  
+**Validação e Tratamento de Exceções**: Melhorar a validação e o tratamento de exceções no aplicativo.  
+**Treinamento da IA Generativa**: "Treinar" de maneira mais adequada a IA Generativa para gerar perguntas mais precisas.  
+**Seleção de Níveis de Perguntas**: Permitir ao usuário selecionar os níveis das perguntas. Por padrão, deixei no básico.  
+**Gerar Mais Perguntas**: Permitir ao usuário gerar mais perguntas. Atualmente, está limitado a 5 questões por prática.  
+**Avaliação do Histórico de Respostas**: Futuramente, a própria IA poderá avaliar o histórico de respostas do usuário para determinar se está melhorando em determinado assunto.
+
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
