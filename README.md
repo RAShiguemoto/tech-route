@@ -1,6 +1,7 @@
 # TECH-ROUTE
 
 Um aplicativo Flutter que utiliza a IA generativa do Google Gemini para gerar perguntas com base em um tema fornecido pelo usuário. O usuário pode responder às perguntas geradas pela IA e receber uma nota com feedback.
+![TechRoute](https://github.com/RAShiguemoto/tech-route/assets/24597559/22d08dff-ba08-4744-9747-11aa04f2ea0a)
 
 ## Funcionalidades
 
