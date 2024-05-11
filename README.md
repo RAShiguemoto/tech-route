@@ -12,9 +12,9 @@ Um aplicativo Flutter que utiliza a IA generativa do Google Gemini para gerar pe
 
 ## Tecnologias Utilizadas
 
-Flutter: Desenvolvimento do aplicativo móvel.
-Visual Studio Code (VSCode): IDE utilizada para desenvolvimento.
-IA Generativa do Google Gemini: Utilizada para gerar perguntas e fornecer feedback.
+-> Flutter: Desenvolvimento do aplicativo móvel.  
+-> Visual Studio Code (VSCode): IDE utilizada para desenvolvimento.  
+-> IA Generativa do Google Gemini: Utilizada para gerar perguntas e fornecer feedback.
 
 ## Como Usar
 
