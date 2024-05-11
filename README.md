@@ -18,11 +18,11 @@ Um aplicativo Flutter que utiliza a IA generativa do Google Gemini para gerar pe
 
 ## Como Usar
 
-Instalação: Clone este repositório e abra o projeto no VSCode.
-Execução: Execute o aplicativo em um dispositivo ou emulador Flutter.
-Fornecer um Tema: Na tela inicial, forneça um tema para a IA gerar perguntas.
-Responder às Perguntas: Responda às perguntas geradas pela IA.
-Receber Nota e Feedback: Após responder às perguntas, a IA fornecerá uma nota e feedback com base nas suas respostas.
+-> Instalação: Clone este repositório e abra o projeto no VSCode.  
+-> Execução: Execute o aplicativo em um dispositivo ou emulador Flutter.  
+-> Fornecer um Tema: Na tela inicial, forneça um tema para a IA gerar perguntas.  
+-> Responder às Perguntas: Responda às perguntas geradas pela IA.  
+-> Receber Nota e Feedback: Após responder às perguntas, a IA fornecerá uma nota e feedback com base nas suas respostas.
 
 ## Contribuição
 
