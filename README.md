@@ -35,7 +35,7 @@ Um aplicativo Flutter que utiliza a IA generativa do Google Gemini para gerar pe
 
 ## Observações do Desenvolvedor
 
-Devido ao pouco tempo e à correria para desenvolver, neste momento você não irá encontrar um código limpo, organizado e muito menos otimizado. No entanto, pretendo levar adiante e melhorá-lo, pois gosto de testar meus conhecimentos de vez em quando. Além disso, peço desculpas se encontrar algum erro de português, não tive tempo de revisar nada, apenas de entregar.
+Devido ao curto prazo e à pressa para desenvolver, neste momento o código pode não estar limpo, organizado ou otimizado. No entanto, pretendo continuar trabalhando nele para melhorá-lo, pois gosto de testar meus conhecimentos de tempos em tempos. Peço desculpas se encontrar algum erro de português, pois não tive tempo de revisar, apenas de entregar.
 
 ## Contribuição
 
